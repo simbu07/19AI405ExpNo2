@@ -21,7 +21,7 @@ Step 2: Visit 0 and put its adjacent nodes which are not visited yet into the st
 
 Step 3: Now, Node 1 at the top of the stack, so visit node 1 and pop it from the stack and put all of its adjacent nodes which are not visited in the stack.
 
- <img src="https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/e6017942-08b1-4742-87ad-c97eb97bf985" width="50" height="50">
+ <img src="https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/e6017942-08b1-4742-87ad-c97eb97bf985" width="250" height="250">
 
 Visit node 1
  Visit node 1
