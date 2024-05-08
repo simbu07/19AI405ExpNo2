@@ -1,4 +1,4 @@
-5<h1 align = center>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
+<h1 align = center>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
 <h4>Name: Silambarasan K</h4>
 <h4>Register Number:212221230101</h4>
 <h4>Date: 16/02/2024</h4>
